@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/reservoirsample-algorithm/reservoirsample-algorithm.h
+
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/reservoirsample-algorithm.c
+reservoirsample-algorithm/reservoirsample-algorithm.h
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/reservoirsample-algorithm/reservoirsample-algorithm.h
+stdio.h
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/stdio.h
+stdlib.h
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/stdlib.h
+time.h
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/time.h
+math.h
+/home/yushan/MiningOfMassiveDatasets/ReservoirSample-Algorithm/src/math.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/dgim_algorithm.dir/dgim_algorithm.c.o  -o ../../bin/dgim_algorithm  -L/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/lib -rdynamic 

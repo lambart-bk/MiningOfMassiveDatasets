@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/bloomfilter.dir/bloomfilter.cpp.o  -o ../../bin/bloomfilter  -L/home/yushan/MiningOfMassiveDatasets/BloomFilter/lib -rdynamic 

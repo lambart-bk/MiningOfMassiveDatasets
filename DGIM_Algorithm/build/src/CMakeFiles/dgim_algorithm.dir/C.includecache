@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/dgim_algorithm/dgim_algorithm.h
+
+/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/src/dgim_algorithm.c
+dgim_algorithm/dgim_algorithm.h
+/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/src/dgim_algorithm/dgim_algorithm.h
+stdio.h
+/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/src/stdio.h
+stdlib.h
+/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/src/stdlib.h
+time.h
+/home/yushan/MiningOfMassiveDatasets/DGIM_Algorithm/src/time.h
+

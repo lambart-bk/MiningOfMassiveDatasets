@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/fm_loglog_algorithm.dir/fm_loglog_algorithm.c.o  -o ../../bin/fm_loglog_algorithm  -L/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/lib -rdynamic -lm -Wl,-rpath,/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/lib 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bloomfilter/bloomfilter.h
+
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/bloomfilter.cpp
+bloomfilter/bloomfilter.h
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/bloomfilter/bloomfilter.h
+stdio.h
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/stdio.h
+stdlib.h
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/stdlib.h
+math.h
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/math.h
+time.h
+/home/yushan/MiningOfMassiveDatasets/BloomFilter/src/time.h
+

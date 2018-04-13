@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ams_algorithm.dir/ams_algorithm.c.o  -o ../../bin/ams_algorithm  -L/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/lib -rdynamic -lm -Wl,-rpath,/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/lib 

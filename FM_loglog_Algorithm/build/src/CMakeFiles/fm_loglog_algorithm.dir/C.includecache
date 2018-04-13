@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fm_loglog_algorithm/fm_loglog_algorithm.h
+
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/fm_loglog_algorithm.c
+fm_loglog_algorithm/fm_loglog_algorithm.h
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/fm_loglog_algorithm/fm_loglog_algorithm.h
+stdio.h
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/stdio.h
+stdlib.h
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/stdlib.h
+math.h
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/math.h
+time.h
+/home/yushan/MiningOfMassiveDatasets/FM_loglog_Algorithm/src/time.h
+

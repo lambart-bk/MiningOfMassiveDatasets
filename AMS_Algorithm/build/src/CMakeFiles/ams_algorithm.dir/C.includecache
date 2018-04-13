@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ams_algorithm/ams_algorithm.h
+
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/ams_algorithm.c
+ams_algorithm/ams_algorithm.h
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/ams_algorithm/ams_algorithm.h
+stdio.h
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/stdio.h
+stdlib.h
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/stdlib.h
+math.h
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/math.h
+time.h
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/src/time.h
+

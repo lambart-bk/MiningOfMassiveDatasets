@@ -1,0 +1,5 @@
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/build/CMakeFiles/edit_cache.dir
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/build/CMakeFiles/rebuild_cache.dir
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/build/src/CMakeFiles/edit_cache.dir
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/build/src/CMakeFiles/rebuild_cache.dir
+/home/yushan/MiningOfMassiveDatasets/AMS_Algorithm/build/src/CMakeFiles/ams_algorithm.dir
